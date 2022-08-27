@@ -10,4 +10,5 @@
     <item name="txtsstop" type="id" />
     <item name="imageview" type="id" />
     <item name="seekbar" type="id" />
+    <item name="listviewsong" type="id" />
 </resources>

@@ -7,5 +7,5 @@
     <color name="teal_700">#FF000000</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="music_style">#FF000000</color>
+    <color name="music_style">#FFFFFFFF</color>
 </resources>

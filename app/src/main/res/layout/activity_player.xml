@@ -31,7 +31,7 @@
                 android:singleLine="true"
                 android:text="Song Name"
                 android:textAlignment="center"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="22sp"
                 android:textStyle="italic" />
 
@@ -67,7 +67,7 @@
                     android:layout_marginLeft="20dp"
                     android:layout_toLeftOf="@+id/seekbar"
                     android:text="0.10"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="15sp" />
 
                 <TextView
@@ -79,7 +79,7 @@
                     android:layout_marginRight="20dp"
                     android:layout_toRightOf="@+id/seekbar"
                     android:text="4.10"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="15sp" />
 
 
@@ -133,10 +133,10 @@
                     android:id="@+id/btnfr"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
-                    android:background="@drawable/ic_fast_rewind"
-                    android:layout_toLeftOf="@+id/btnprev"
                     android:layout_marginTop="20dp"
-                    android:layout_marginRight="15dp"/>
+                    android:layout_marginRight="15dp"
+                    android:layout_toLeftOf="@+id/btnprev"
+                    android:background="@drawable/ic_fast_rewind" />
 
 
 

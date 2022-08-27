@@ -3,9 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/ic_fast_forward.xml" value="0.2203125" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/ic_fast_rewind.xml" value="0.2203125" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/ic_next.xml" value="0.2203125" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/ic_pause.xml" value="0.2203125" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/ic_play.xml" value="0.2203125" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/drawable/ic_previous.xml" value="0.2203125" />
         <entry key="..\:/MusicPlayer/app/src/main/res/drawable/list_bg.xml" value="0.18" />
         <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.20416666666666666" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.1" />
         <entry key="..\:/MusicPlayer/app/src/main/res/layout/activity_player2.xml" value="0.2" />
         <entry key="..\:/MusicPlayer/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
       </map>
